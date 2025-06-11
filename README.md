@@ -1,6 +1,11 @@
 ## Running the Project with Docker
 
-This project is containerized using Docker and Docker Compose. The setup uses Python 3.13 (slim) and installs dependencies from `requirements.txt` into a virtual environment. The application code is in `app.py`.
+This project is containerised using Docker and Docker Compose. The setup uses Python 3.13 (slim) and installs dependencies from `requirements.txt` into a virtual environment. The application code is in `app.py`.
+
+## 🌐 Live Demo
+
+👉 [https://flask-time-app-z474.onrender.com](https://flask-time-app-z474.onrender.com)
+
 
 ### Requirements and Configuration
 - **Python Version:** 3.13 (as specified in the Dockerfile)
